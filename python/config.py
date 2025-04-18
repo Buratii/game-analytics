@@ -1,5 +1,3 @@
-KAFKA_BROKER = 'localhost:9092'
-KAFKA_TOPIC = 'user-events'
 KAFKA_MAX_RETRIES = 10
 KAFKA_RETRY_INTERVAL = 5  # segundos
 
